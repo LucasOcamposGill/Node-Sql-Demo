@@ -1,3 +1,5 @@
+once you do npm install you would be able to 
+
 RUN "set DEBUG=myapp:* & npm start" in the terminal to start the application
 
 the endpoint for the server will be at: http://localhost:3000

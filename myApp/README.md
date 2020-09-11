@@ -1,14 +1,3 @@
-# Node-Sql-Demo
-
-Simple ExpressJS API connected to a SQL database
-
-"npm install" to get started, once that is done then
-
-you will have to add the right information in the .env file to be able to connect to your database 
-and you will also need to aquire an API key for SENDGRID and add that to the .env file as well.
-
-after that is done, you should be able to -
-
 RUN "set DEBUG=myapp:* & npm start" in the terminal to start the application
 
 the endpoint for the server will be at: http://localhost:3000
